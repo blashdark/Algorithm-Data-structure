@@ -3,9 +3,9 @@
 ---
 
 ## 📘 Module 1: Introduction
-- [x] Understand what algorithms are
-- [x] Understand what data structures are
-- [x] Learn about time complexity (Big-O, Big-Θ, Big-Ω)
+- [ ] Understand what algorithms are
+- [ ] Understand what data structures are
+- [ ] Learn about time complexity (Big-O, Big-Θ, Big-Ω)
 - [ ] Learn about space complexity
 - [ ] Understand the importance of algorithm analysis
 
